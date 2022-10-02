@@ -1,5 +1,5 @@
-私は十七歳の高校生です。  
-I'm a 17-years-old high school student.  
+私は十八歳の高校生です。  
+I'm a 18-years-old high school student.  
 日本語を勉強しています。  
 Now learning Japanese.  
 アニメとホロライブが好きです。  
