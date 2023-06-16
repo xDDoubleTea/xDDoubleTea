@@ -1,10 +1,8 @@
-私は十八歳の高校生です。  
-I'm a 18-years-old high school student.  
-日本語を勉強しています。  
-Now learning Japanese.  
+私は十八歳の大学生です。  
+I'm an 18-years-old undergraduate.  
 アニメとホロライブが好きです。  
 I like anime and hololive.  
-星詠み、へいみん、常闇眷属です。  
+星詠み、へいみん、常闇眷属です。
 
 
 
