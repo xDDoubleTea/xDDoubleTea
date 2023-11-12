@@ -1,8 +1,4 @@
-私は十八歳の大学生です。  
-I'm an 18-years-old undergraduate.  
-アニメとホロライブが好きです。  
-I like anime and hololive.  
-星詠み、へいみん、常闇眷属です。
+Never assume someone to be like the one you imagine.  
 
 
 
