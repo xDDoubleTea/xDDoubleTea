@@ -1,4 +1,6 @@
-I use arch btw
+# I use arch btw
+
+I'm planning to host a minecraft 1.8.9 pvp server.
 
 
 
