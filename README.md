@@ -1,16 +1,17 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=xDDoubleTea&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="xDDoubleTea" /> </p>  
+
 # About me
+---
+- ➕ I am a math major in NTHU. I like math, computer science and software engineering.
+- 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
+- 🌱 I’m currently learning how to code properly
+---
 
-I am a math major in NTHU (National Tsing Hua University) in Taiwan. I like math, computer science and software engineering.
 
-# I use arch btw
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xDDoubleTea&theme=tokyonight)  
 
-Here is my dotfiles repository [xDDoubleTea/dotfiles](https://github.com/xDDoubleTea/dotfiles), I am using Lazyvim and tmux on hyprland.  
-I'm still learning how to do stuff the correct way.
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xDDoubleTea&theme=tokyonight)
 
-# Stuff
-
-I'm developing a discord bot using discord.py and a minecraft java plugin using spigot. I'm bad at programming.  
-I have a cool tetris game written in C using the allegro library, which was my final project for the Introduction to Programming I in the CS department, I might make it public after I cleaned that up.  
 
 <!---
 xDDoubleTea/xDDoubleTea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
