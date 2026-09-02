@@ -1,5 +1,15 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=xDDoubleTea&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="xDDoubleTea" /> </p>  
 
+
+
+---
+
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xDDoubleTea&theme=tokyonight)  
+
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xDDoubleTea&theme=tokyonight)
+
+---
+
 # Linux
 
 ![Arch](https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
@@ -21,7 +31,7 @@
 
 # Tech stack
 
-### Backend
+## Backend
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -29,12 +39,6 @@
 
 ## Frontend
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-%23FFFFFF.svg?style=for-the-badge&logo=MUI&logoColor=#007FFF)
-
----
-
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xDDoubleTea&theme=tokyonight)  
-
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xDDoubleTea&theme=tokyonight)
 
 
 <!---
