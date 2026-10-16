@@ -6,7 +6,7 @@
 - 🐧 poking at the Linux kernel ([kcalc](https://github.com/xDDoubleTea/kcalc))
 - 🖥️ making [kitty-desk](https://github.com/PinkNekoFist/kitty-desk) usable over a phone hotspot
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xDDoubleTea&theme=tokyonight) ![LeetCode Stats](https://leetcard.jacoblin.cool/xDDoubleTea?ext=heatmap&colors=%231a1b27,%2324283b,%2370a5fd,%2338bdae,%23bf91f3,%239ece6a,%23e0af68,%23f7768e)
+<img height="200" alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xDDoubleTea&theme=tokyonight" /> <img height="200" alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/xDDoubleTea?ext=heatmap&colors=%231a1b27,%2324283b,%2370a5fd,%2338bdae,%23bf91f3,%239ece6a,%23e0af68,%23f7768e" />
 
 <details>
 <summary><b>Latest posts</b></summary>
