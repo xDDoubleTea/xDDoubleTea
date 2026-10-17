@@ -12,12 +12,10 @@
 <summary><b>Latest posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [DragonBot Ticket Close Hang](https://blog.hoshiyomi-dev.work/post/dragonbot-ticket-close-hang/)
 - [LeetCodeBot: One Session, Many Commands](https://blog.hoshiyomi-dev.work/post/leetcodebot-shared-session/)
 - [LeetCodeBot: The Bug the Async Migration Did Not Write](https://blog.hoshiyomi-dev.work/post/leetcodebot-missing-greenlet/)
 - [Kcalc Self Deadlock](https://blog.hoshiyomi-dev.work/post/kcalc-self-deadlock/)
-
 <!-- BLOG-POST-LIST:END -->
 
 </details>
