@@ -4,10 +4,10 @@
 <summary><b>Latest posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [116交大資工丁組推甄紀錄](https://blog.hoshiyomi-dev.work/post/nycu-ding-ding-ding-ding-ding-ding-ding/)
 - [Arch Linux &lpar;0&rpar;](https://blog.hoshiyomi-dev.work/post/arch-linux-1/)
 - [DragonBot Ticket Close Hang](https://blog.hoshiyomi-dev.work/post/dragonbot-ticket-close-hang/)
 - [LeetCodeBot: One Session, Many Commands](https://blog.hoshiyomi-dev.work/post/leetcodebot-shared-session/)
-- [LeetCodeBot: The Bug the Async Migration Did Not Write](https://blog.hoshiyomi-dev.work/post/leetcodebot-missing-greenlet/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
