@@ -4,10 +4,10 @@
 <summary><b>Latest blog posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [交大資工所丁組備取紀錄](https://blog.hoshiyomi-dev.work/post/nycu-waiting-list-record/)
 - [The F Word Theorem](https://blog.hoshiyomi-dev.work/post/the-f-word-theorem/)
 - [116交大資工丁組推甄紀錄](https://blog.hoshiyomi-dev.work/post/nycu-ding-ding-ding-ding-ding-ding-ding/)
 - [Arch Linux &lpar;0&rpar;](https://blog.hoshiyomi-dev.work/post/arch-linux-1/)
-- [DragonBot Ticket Close Hang](https://blog.hoshiyomi-dev.work/post/dragonbot-ticket-close-hang/)
 <!-- BLOG-POST-LIST:END -->
 
 
