@@ -1,7 +1,7 @@
 <img height="200" alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xDDoubleTea&theme=tokyonight" /> <img height="200" alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/xDDoubleTea?ext=heatmap&colors=%231a1b27,%2324283b,%2370a5fd,%2338bdae,%23bf91f3,%239ece6a,%23e0af68,%23f7768e" />
 
-<details>
-<summary><b>Latest posts</b></summary>
+
+<summary><b>Latest blog posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
 - [The F Word Theorem](https://blog.hoshiyomi-dev.work/post/the-f-word-theorem/)
@@ -10,7 +10,7 @@
 - [DragonBot Ticket Close Hang](https://blog.hoshiyomi-dev.work/post/dragonbot-ticket-close-hang/)
 <!-- BLOG-POST-LIST:END -->
 
-</details>
+
 
 <details>
 <summary><b>GitHub stats</b></summary>
